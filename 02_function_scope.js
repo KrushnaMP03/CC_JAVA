@@ -15,6 +15,7 @@ const number2 = () => console.log("hello");
 console.log(number2());
 
 
+console.log("hello from Local pc");
 ((num1,num2)=>(console.log(num1+num2)))(6,4);
 
 const num =[1 , 2 , 3 , 4 , 5 , 8]
